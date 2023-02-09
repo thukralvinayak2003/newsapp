@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Serghei Spivac Octagon Interview | UFC Vegas 68 - UFC - Ultimate Fighting Championship",
+            "description": "In his first main event, ranked heavyweight Sergehi Spivac came to make a statement after stopping Derrick Lewis in the first round at UFC Vegas 68. Talking ...",
+            "url": "https://www.youtube.com/watch?v=hEc_EvHkRRM",
+            "urlToImage": "https://i.ytimg.com/vi/hEc_EvHkRRM/maxresdefault.jpg",
+            "publishedAt": "2023-02-05T08:35:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Guerilus",
+            "title": "Off-duty NYPD officer 'fighting for his life' after being shot during robbery - ABC News",
+            "description": "The officer was attempting to buy a car, police said.",
+            "url": "https://abcnews.go.com/US/off-duty-nypd-officer-fighting-life-after-shot/story?id=96901136",
+            "urlToImage": "https://s.abcnews.com/images/US/NYPD-Getty-SG-2_hpMain_20230204-233922_16x9_992.jpg",
+            "publishedAt": "2023-02-05T08:15:00Z",
+            "content": "A five-year veteran of the New York Police is \"fighting for his life\" after being shot Saturday night during a robbery, officials said.\r\nThe officer, who was off-duty, attempted to buy a car on Ruby … [+712 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "How to see February's full snow moon - CNN",
+            "description": "Look in the night sky this weekend for February's full moon, where it can be glimpsed around the world. The \"snow\" moon will peak at 1:29 p.m. ET Sunday but will appear full between early Saturday morning and early Tuesday morning.",
+            "url": "https://www.cnn.com/2023/02/05/world/february-full-snow-moon-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211213155923-02-cold-full-moon-2019-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-05T08:07:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nLook in the night sky this weekend for Februarys full … [+6863 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sophia Saifi, Tara John, Rhea Mogul",
+            "title": "Pakistan's former President Pervez Musharraf dies in Dubai - CNN",
+            "description": "Pakistan's former President General Pervez Musharraf has died in Dubai after a prolonged illness at Dubai American Hospital, according to a statement from the Pakistani military. He was 79 years old.",
+            "url": "https://www.cnn.com/2023/02/05/asia/pervez-musharraf-former-pakistan-president-dies-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230205012435-01-pervez-musharraf-111107.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-05T08:01:00Z",
+            "content": "Pakistans former President General Pervez Musharraf has died in Dubai after a prolonged illness at Dubai American Hospital, according to a statement from the Pakistani military. He was 79 years old. … [+2661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College basketball scores, winners and losers: Tennessee gets controversial win, six top-15 teams go down - CBS Sports",
+            "description": "Last-second shots, dunks, lowlights, upsets and more of went down in college basketball's wild Saturday",
+            "url": "https://www.cbssports.com/college-basketball/news/college-basketball-scores-winners-and-losers-tennessee-gets-controversial-win-six-top-15-teams-go-down/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/05/8662282d-0d9f-441a-b337-91fd83328c62/thumbnail/1200x675/669bd4e1b1a9c5e131d0937bcb18ec17/usatsi-19922145-1.jpg",
+            "publishedAt": "2023-02-05T07:33:00Z",
+            "content": "Saturday was as consequential in college basketball as it was entertaining in one of the most loaded schedules of the season. There were buzzer-beaters, highlight-reel dunks, lowlights (looking at yo… [+13964 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Alex Woodward",
+            "title": "George Santos – news: Secret tapes catch congressman admitting he ‘lied to everyone’ and giving Botox advice - The Independent",
+            "description": "Congressman admits he ‘obviously f***** up’ in new recording of his conversation with a prospective staffer",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/george-santos-lies-drag-gay-spider-man-musical-b2275847.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/21/04/10401865.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-05T07:00:00Z",
+            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nBombshell secret tapes have caught embattled Republican … [+6320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Lakers Out On A Kyrie Irving Trade? - Lakers Nation",
+            "description": "It appears that the Lakers and Kyrie Irving don't see eye to eye...Join us on Playback for our live stream of every game!: https://www.playback.tv/lakersnati...",
+            "url": "https://www.youtube.com/watch?v=VR-USTZB-MI",
+            "urlToImage": "https://i.ytimg.com/vi/VR-USTZB-MI/maxresdefault.jpg",
+            "publishedAt": "2023-02-05T06:48:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Zeke Miller, Michael Balsamo, Colleen Long, Aamer Madhani",
+            "title": "US downs Chinese balloon, drawing a threat from China - The Associated Press",
+            "description": "WASHINGTON (AP) — The U.S. military on Saturday shot down a suspected Chinese spy balloon off the Carolina coast after it traversed sensitive military sites across North America. China insisted the flyover was an accident involving a civilian aircraft and thr…",
+            "url": "https://apnews.com/article/politics-united-states-government-china-antony-blinken-51e49202f2a0a50541cde059934c4cfb",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dd7715eb81514ad9a155bc9a7ee6cf47/2576.webp",
+            "publishedAt": "2023-02-05T06:32:39Z",
+            "content": "WASHINGTON (AP) The U.S. military on Saturday shot down a suspected Chinese spy balloon off the Carolina coast after it traversed sensitive military sites across North America. China insisted the fly… [+8109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Disney World unions say no to latest contract offer - Fox Business",
+            "description": "Union members voted down a contract proposal covering tens of thousands of Walt Disney World service workers.",
+            "url": "https://www.foxbusiness.com/markets/disney-world-unions-say-no-latest-contract-offer",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Disney-World-AP.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-05T06:10:42Z",
+            "content": "It is back to the drawing board for Disney and its union members at Walt Disney World.\r\nUnion members voted down a contract proposal covering tens of thousands of service workers at the Florida theme… [+3329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Carmelo Hayes crashes Bron Breakker's victory celebration: NXT Vengeance Day 2023 highlights - WWE",
+            "description": "After both Superstars secured big victories at NXT Vengeance Day, Bron Breakker and Carmelo Hayes lock eyes with the NXT Championship at the forefront of the...",
+            "url": "https://www.youtube.com/watch?v=ilrhG8vT_co",
+            "urlToImage": "https://i.ytimg.com/vi/ilrhG8vT_co/maxresdefault.jpg",
+            "publishedAt": "2023-02-05T05:04:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "Scientists Discover a Weird New Form of Ice That May Change How We Think About Water - ScienceAlert",
+            "description": "Scientists rattling normal frozen water around in a jar of ultracold steel balls have discovered a previously unknown form of ice, closer to liquid water than any other ice yet.",
+            "url": "https://www.sciencealert.com/scientists-discover-a-weird-new-form-of-ice-that-may-change-how-we-think-about-water",
+            "urlToImage": "https://www.sciencealert.com/images/2023/02/steel-balls-water-ice.jpg",
+            "publishedAt": "2023-02-05T05:00:38Z",
+            "content": "Scientists rattling normal frozen water around in a jar of ultracold steel balls have discovered a previously unknown form of ice, closer to liquid water than any other ice yet.\r\nThis is amorphous ic… [+4726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Chile wildfires kill at least 23 people as state of emergency extended further - The Guardian",
+            "description": "Interior minister says ‘emergency is getting worse’ as weather conditions complicate efforts to put out spreading fires",
+            "url": "https://www.theguardian.com/world/2023/feb/05/chile-wildfires-kill-at-least-23-people-as-state-of-emergency-extended-further",
+            "urlToImage": "https://i.guim.co.uk/img/media/424a1fb74d26614ff487d681f149f8ddc68afacc/0_296_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d203641db4d38cf89048f9fea9e1576c",
+            "publishedAt": "2023-02-05T04:06:00Z",
+            "content": "Dozens of wildfires in Chile have claimed at least 23 lives, forcing the government to extend an emergency order to another region as a scorching summer heatwave complicates efforts to control the bl… [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Israelis rally for fifth week against Netanyahu’s judicial plans - Al Jazeera English",
+            "description": "Tens of thousands brave heavy rain in Tel Aviv to protest against government plans to weaken Israel’s Supreme Court.",
+            "url": "https://www.aljazeera.com/news/2023/2/5/israelis-rally-for-fifth-week-against-netanyahus-judicial-plans",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/2023-02-04T183134Z_1657856526_RC2H4Z9UDFL7_RTRMADP_3_ISRAEL-POLITICS-COURT-PROTESTS.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-02-05T03:06:09Z",
+            "content": "Tens of thousands of Israelis have gathered for a fifth week of protests against controversial judicial changes proposed by Prime Minister Benjamin Netanyahus government.\r\nProtesters in the central c… [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": "Hassan Mujtaba",
+            "title": "AMD Ryzen 7 7840HS “Phoenix” 8 Core CPU Benchmarks Show Up To 25% Faster Performance Versus Ryzen 7 6800H - Wccftech",
+            "description": "The first benchmarks of AMD's Ryzen 7 7840HS Phoenix CPU which is designed for mainstream laptops have been leaked & show a nice gain.",
+            "url": "https://wccftech.com/amd-ryzen-7-7840hs-phoenix-8-core-cpu-benchmarks-up-to-25-percent-faster-versus-ryzen-7-6800h/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/01/AMD-Ryzen-7000-Laptop-CPUs.webp",
+            "publishedAt": "2023-02-05T02:58:00Z",
+            "content": "The first benchmarks of AMD's Ryzen 7 7840HS \"Phoenix\" CPU which is designed for mainstream laptops have been leaked and show a nice gain over its predecessor.\r\nAMD Ryzen 7 7840HS \"Phoenix\" CPU Is 25… [+3660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "NBA suspends Magic's Mo Bamba 4 games, Timberwolves' Austin Rivers 3 games for roles in brawl - Yahoo Sports",
+            "description": "Five players were ejected after Rivers approached the Magic bench and Bamba threw a punch.",
+            "url": "https://sports.yahoo.com/nba-suspends-magics-mo-bamba-4-games-timberwolves-austin-rivers-3-games-for-roles-in-brawl-024857630.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hwXrvfoJGWhrON9lVCHxOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/bd17fe60-a43d-11ed-8fff-ac0533c9252a",
+            "publishedAt": "2023-02-05T02:48:00Z",
+            "content": "The NBA has suspended Orlando Magic center Mo Bamba four games and Minnesota Timberwolves guard Austin Rivers three games for their roles in instigating a wild brawl on Friday, the league announced S… [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Oil's New Map: How India Turns Russia Crude Into the West's Fuel - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8c7ffa6f-a511-11ed-abce-7a784868466a&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMi0wNS9vaWwtcy1uZXctbWFwLWhvdy1pbmRpYS10dXJucy1ydXNzaWEtY3J1ZGUtaW50by10aGUtd2VzdC1zLWZ1ZWw=",
+            "urlToImage": null,
+            "publishedAt": "2023-02-05T02:30:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew Miller",
+            "title": "California 5-year-old remains upbeat despite mountain lion attack: 'His spirit remains intact' - Fox News",
+            "description": "A California five-year-old is said to be in good spirits despite being attacked by a mountain lion resulting in lacerations, a facial fracture, and a hospital visit.",
+            "url": "https://www.foxnews.com/us/california-5-year-old-remains-upbeat-despite-mountain-lion-attack-his-spirit-remains-intact",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/CA1.png",
+            "publishedAt": "2023-02-05T02:01:00Z",
+            "content": "A California child is recovering and in good spirits after a mountain lion attack sent him to the hospital.\r\nJack Trexler, 5, and his mother Suzie fought off a mountain lion while walking in Half Moo… [+2624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "South Carolina becomes first 2024 primary state for Democrats - WCNC",
+            "description": "The Democratic Party on Saturday approved the reordering of its 2024 presidential primary, replacing Iowa with South Carolina in the leadoff spot as part of ...",
+            "url": "https://www.youtube.com/watch?v=aGtEuzcAtS0",
+            "urlToImage": "https://i.ytimg.com/vi/aGtEuzcAtS0/hqdefault.jpg",
+            "publishedAt": "2023-02-05T00:05:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jacob Geanous",
+            "title": "Black fraternity Omega Psi Phi boots cops involved in Tyre Nichols' death - New York Post ",
+            "description": "The Greek organization Omega Psi Phi said in a statement that it booted out three of the fired officers involved in the death of Tyre Nichols.",
+            "url": "https://nypost.com/2023/02/04/frat-omega-psi-phi-boots-black-cops-in-tyre-nichols-death/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/tadarrius-bean-comp-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-02-04T23:34:00Z",
+            "content": "A national Black college fraternity announced that it has revoked the memberships of three of the Memphis police officers involved in the death of Tyre Nichols. \r\nThe Greek organization Omega Psi Phi… [+2646 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Supernova Fizzles Out: Rare Twin Star System Discovered With a Weirdly Circular Orbit - SciTechDaily",
+            "description": "After crunching a mountain of astronomy data, Clarissa Pavao, an undergraduate at Embry-Riddle Aeronautical University’s Prescott, Arizona campus, submitted her preliminary analysis. Her mentor’s response was swift and in all-caps. “THERE’S AN ORBIT!” he wrot…",
+            "url": "https://scitechdaily.com/supernova-fizzles-out-rare-twin-star-system-discovered-with-a-weirdly-circular-orbit/",
+            "urlToImage": "https://scitechdaily.com/images/Binary-Star-CPD-29-2176-scaled.jpg",
+            "publishedAt": "2023-02-04T22:20:01Z",
+            "content": "ByEmbry-Riddle Aeronautical UniversityFebruary 4, 2023\r\nBy studying the binary star system CPD-29 2176 (shown here), researchers are unraveling new clues to our earliest beginnings, as stardust. Scie… [+9014 chars]"
+        }
+    ]
+}
